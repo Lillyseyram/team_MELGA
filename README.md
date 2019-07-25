@@ -6,7 +6,7 @@ FM Transmitter Project - "MELGA_FM" with a Website for the Radio (which is to di
 Use Raspberry Pi as FM transmitter. Works on every Raspberry Pi board.
 Just get an FM receiver, connect 20 - 40 cm plain wire to Raspberry Pi's GPIO4 (PIN 7 on GPIO header) to act as an antena, and you are ready for broadcasting.
 
-The Website displays all necessary information broadcasted on the radio so that the whole world can have access to reliable information if not listen to the radio directly.
+The Website displays all necessary information broadcasted on the radio so that the whole world can have access to reliable information.
 
 The project seeks to meet the UN Sustainable Development Goals;
   - GOAL 4 Quality Education
