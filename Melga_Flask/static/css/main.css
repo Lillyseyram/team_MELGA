@@ -152,14 +152,17 @@ textarea {resize: none;}
   z-index: 9999;
   color: #fff;
     padding: 0;
+
     -webkit-transition: height .5s, line-height .5s;
     transition: height .5s, line-height .5s;
 }
 #global-nav img {
     width: 98%;
+    
 }
 .navbar-expand-md .navbar-nav {
     padding-bottom: 30px;
+    
 }
 .navbar-brand {
   display: inline-block;
@@ -177,10 +180,12 @@ textarea {resize: none;}
     margin-top: 0px;
     background: #143bb5;
     line-height: 0 !important;
+    background:green;
 }
 .navbar-dark .navbar-nav .nav-link.active,.navbar-dark .navbar-nav .nav-link:hover {color:#fff200;border-bottom: 1px solid #fff200;}
 .navbar-dark ul>li {
     line-height: 17px;
+    
 }
 .navbar-dark .navbar-nav .nav-link {
     font-size: 15px;
