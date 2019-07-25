@@ -1,1 +1,0 @@
-web: gunicon -w 4 melgaApp:py
